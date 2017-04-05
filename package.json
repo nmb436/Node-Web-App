@@ -3,7 +3,7 @@
   "description": "Website Theme",
   "version": "0.0.1",
   "main": "app.js",
-    "scripts":{start:"node app.js"},
+    "scripts": {start:"node app.js"},
   "dependencies": {
     "async": "latest",
     "bcrypt-nodejs": "latest",
